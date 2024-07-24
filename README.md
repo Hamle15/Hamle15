@@ -6,6 +6,8 @@
 <p><em>Back-end and mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-### 💻 Technologies and languages ​​that I use...  
+### 💻 Technologies and languages ​​that I use...
+> Tools, languages, and other things that I like to work with.
+
 
 
