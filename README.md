@@ -7,7 +7,9 @@
 
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
+
 <table>
   <tr>
     <td align="center" width="96">
