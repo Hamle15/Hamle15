@@ -6,11 +6,11 @@
 <p><em>Back-end and mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-### 💻 Technologies and languages ​​that I use...
-> Tools, languages, and other things that I like to work with.
-<br>
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+> Tools, languages, and other things that I like to work with.
+
+
+
 
 
 
