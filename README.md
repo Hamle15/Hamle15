@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hwcmp1ZDI0bzJiN2s3b2R2Z2Vld3pnOHN5NGQ4cW9kb3NldGtqOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JkKcK6nIy3txeChSRA/giphy.gif" width="170">
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Hamlet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamlet-pirazan-38518624a/)](https://www.linkedin.com/in/hamlet-pirazan-38518624a/)
-<p><em>8th semester systems engineering student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>9th semester systems engineering student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <p><em>Back-end, Mobile Developer and Database Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
